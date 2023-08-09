@@ -23,7 +23,7 @@ comments: true
 - [Conjunto publicado em ambiente homologação](https://homologa.cge.mg.gov.br/dataset/lista-comissoes-treinadas-spci).
 
 ## Assuntos tratados
-O new dataset template é um conjunto de automatizações desenvolvidas pela Diretoria Central de Transparência Ativa - DCTA/CGE para criação, documentação, validação e publicação (criação e atualização em instâncias do CKAN) de conjunto de dados ou datasets.
+O new dataset template é um conjunto de automatizações desenvolvidas pela Diretoria Central de Transparência Ativa - DCTA/CGE para criação, documentação, validação e publicação (criação e atualização em instâncias do CKAN) de conjunto de dados ou datasets
 
 ### Fluxo de execução
 
