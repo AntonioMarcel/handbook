@@ -23,7 +23,7 @@ comments: true
 - [Conjunto publicado em ambiente homologação](https://homologa.cge.mg.gov.br/dataset/lista-comissoes-treinadas-spci).
 
 ## Assuntos tratados
-O new dataset template é um conjunto de automatizações desenvolvidas pela Diretoria Central de Transparência Ativa - DCTA/CGE para criação, documentação, validação e publicação (criação e atualização em instâncias do CKAN) de conjunto de dados ou datasets.
+O new dataset template é um conjunto de automatizações desenvolvidas pela Diretoria Central de Transparência Ativa - DCTA/CGE para criação, documentação, validação e publicação (criação e atualização em instâncias do CKAN) de conjunto de dados ou datasets
 
 ### Fluxo de execução
 
@@ -81,4 +81,3 @@ OBS.: Caso a permissão para Actions ler e escrever no repositório não esteja 
 ![Actions-Settings-2](https://user-images.githubusercontent.com/49699290/254383904-7e5f739a-1b15-4bd1-a225-1cd75655d80b.png)
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
